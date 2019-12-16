@@ -1,4 +1,4 @@
-#Fuck all the cookies aka autoclicker
+#AutoClicker v1.0
 import time
 import threading
 from pynput.mouse import Button, Controller
